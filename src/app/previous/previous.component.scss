@@ -1,0 +1,14 @@
+.previous-page-main-container {
+    border: 1px solid gray;
+    height: 100%;
+    .previous-page {
+        padding: 1rem;
+        cursor: pointer;
+    }
+    .previous-page:hover {
+        color: blue;
+    }
+    .previous-page-text {
+        font-weight: bold;
+    }
+}

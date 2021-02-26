@@ -1,0 +1,14 @@
+.next-page-main-container {
+    border: 1px solid gray;
+    height: 100%;
+    .next-page {
+        padding: 1rem;
+        cursor: pointer;
+    }
+    .next-page:hover {
+        color: blue;
+    }
+    .next-page-text {
+        font-weight: bold;
+    }
+}

@@ -1,0 +1,11 @@
+.current-page-main-container {
+    border: 1px solid gray;
+    height: 100%;
+    .current-page {
+        font-weight: bold;
+    }
+    .current-page-text {
+        margin-bottom: 3rem;
+        font-weight: bold;
+    }
+}

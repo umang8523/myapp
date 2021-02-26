@@ -1,0 +1,16 @@
+.app-main-container {
+    text-align: -webkit-center;
+    .main-container {
+        text-align: center;
+        vertical-align: middle;
+        margin: 5rem;
+        .pages {
+            margin: 1rem;
+            display: inline-block;
+            width: 10rem;
+        }
+    }
+    .html-box {
+        margin: 10rem;
+    }
+}
